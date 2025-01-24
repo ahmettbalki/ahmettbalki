@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Balkı</h1>
 <h3 align="center">I am Fullstack developer.</h3>
 
-- 🔭 I’m currently working on **.Net**
-
-- 🌱 I’m currently learning **React, Angular**
-
 - 📫 How to reach me **ahmettbalki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
